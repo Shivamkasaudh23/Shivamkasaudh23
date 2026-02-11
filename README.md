@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Shivamkasaudh23!
 
-<div align="center">
+<!-- <div align="center">
 
 [![GitHub followers](https://img.shields.io/github/followers/Shivamkasaudh23?label=Follow&style=social)](https://github.com/Shivamkasaudh23)
 [![Twitter Follow](https://img.shields.io/twitter/follow/yourhandle?label=Follow&style=social)](https://twitter.com/yourhandle)
@@ -100,4 +100,4 @@ I'm always interested in collaborating on interesting projects and connecting wi
 
 ![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=Shivamkasaudh23.Shivamkasaudh23)
 
-</div>
+</div> -->
